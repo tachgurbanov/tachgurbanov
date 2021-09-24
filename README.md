@@ -1,3 +1,5 @@
+### Welcome to my GitHub!
+
 <style>
 
 .bg {
@@ -43,8 +45,6 @@
   }
 }
 </style>
-
-### Welcome to my GitHub!
 
 I'm a JS Developer passionate about the best web and mobile development technologies.
 
