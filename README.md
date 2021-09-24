@@ -21,6 +21,6 @@ I'm a JS Developer passionate about the best web and mobile development technolo
   <a href = "mailto:dev.tachgurbanov@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 
-  ![snake gif](https://github.com/tachgurbanov/tachgurbanov/blob/output/github-contribution-grid-snake.gif)
+![Snake animation](https://github.com/Morettegustavo/Morettegustavo/blob/output/github-contribution-grid-snake.svg)
     
 </div>
