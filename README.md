@@ -2,11 +2,12 @@
 
 I'm a JS Developer passionate about the best web and mobile development technologies.
 
-<div>
+<div align="center">
   <a href="https://github.com/tachgurbanov">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=tachgurbanov&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tachgurbanov&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
+<br>
 <div align="center">
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tachgurbanov&theme=dark&hide_border=true)](https://git.io/streak-stats)
