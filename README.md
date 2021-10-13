@@ -3,14 +3,14 @@
 I'm a JS Developer passionate about the best web and mobile development technologies.
 
 <div align="center">
-  <a href="https://github.com/tachgurbanov">
+  <a href="https://tachgurbanov.github.io">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=tachgurbanov&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tachgurbanov&layout=compact&langs_count=7&theme=react"/>
 </div>
 <br>
 <div align="center" >
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tachgurbanov&theme=react&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tachgurbanov&theme=react&hide_border=true)](https://tachgurbanov.github.io)
 
  </div>
  <br>
