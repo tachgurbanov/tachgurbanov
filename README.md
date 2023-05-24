@@ -25,6 +25,4 @@ I'm a Developer passionate about the best web and mobile development technologie
   <a href = "mailto:dev.tachgurbanov@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 ![Snake animation](https://github.com/tachgurbanov/tachgurbanov/blob/output/github-contribution-grid-snake.svg)
-
- <a href="http://www.github.com/tachgurbanov"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=tachgurbanov&bg_color=20232a&color=61dafb&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 </div>
