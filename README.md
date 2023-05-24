@@ -1,7 +1,6 @@
 ### Welcome to my GitHub!
 
-I'm a JS Developer passionate about the best web and mobile development technologies.
-
+I'm a Developer passionate about the best web and mobile development technologies.
  
 <div align="center" >
 
