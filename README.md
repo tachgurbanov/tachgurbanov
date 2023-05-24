@@ -32,7 +32,7 @@ I'm a Developer passionate about the best web and mobile development technologie
  
   <div> 
   <a href="https://instagram.com/tachgurbanov" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
- </a><a href="https://www.linkedin.com/in/kerim-tachgurbanov" target="_blank">
+ </a><a href="https://www.linkedin.com/in/ktachgurbanov" target="_blank">
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label" target="_blank">
  </a> <a href="https://facebook.com/tachgurbanov" target="_blank">
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Facebook&color=1877F2&logo=Facebook&logoColor=FFFFFF&label=" target="_blank">
