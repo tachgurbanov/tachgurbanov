@@ -1,8 +1,8 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Welcome&height=100&section=header"/>
-</p>
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome&fontSize=72&animation=fadeIn&fontAlignY=26&desc=I'm%20a%20Developer%20passionate%20about%20the%20best%20web%20and%20mobile%20development%20technologies!&descAlignY=50&descAlign=50)
 
-I'm a Developer passionate about the best web and mobile development technologies.
+
+
+
  
 <div align="center" >
 
