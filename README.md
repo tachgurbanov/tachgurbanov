@@ -2,7 +2,7 @@
  
 <div align="center" >
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tachgurbanov&theme=react&hide_border=true)](https://tachgurbanov.github.io)
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tachgurbanov&theme=react&hide_border=true)](https://tachgurbanov.github.io) -->
 
  </div>
  <br>
